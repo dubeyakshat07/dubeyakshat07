@@ -6,7 +6,7 @@
 
 
 
-
+#### I am a student pursuing Integrated Masters in Mathematics and Computing from Birla Institute of Technology, Mesra - Ranchi
 
 --> 🌱 I’m currently learning Google Cloud Platform , Statistics, and Probability.
 
