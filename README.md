@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**dubeyakshat07/dubeyakshat07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 
 #### I am a student pursuing Integrated Masters in Mathematics and Computing from Birla Institute of Technology, Mesra - Ranchi
 
