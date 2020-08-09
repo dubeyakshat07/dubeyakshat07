@@ -1,7 +1,10 @@
 ### Hi there 👋
+<IMG src="https://media0.giphy.com/media/CVtNe84hhYF9u/giphy.gif?cid=ecf05e47qc0sotr7gpdlmv194xzskb0ct4ryut4pw63s37qy&rid=giphy.gif">
 
 
 #### I am a student pursuing Integrated Masters in Mathematics and Computing from Birla Institute of Technology, Mesra - Ranchi
+
+
 
 --> 😏 I'm fluent in Data Analytics, Machine Learning, and Deep Learning
 
