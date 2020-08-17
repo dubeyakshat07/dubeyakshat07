@@ -25,6 +25,5 @@
 --> ⚡ Fun fact: In the next 10 years, Data Science will do more for medicine than all the biological sciences combined. --- Vinod Khosla(Co-Founder of Sun Microsystems)
 
 
-![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=dubeyakshat07&show_icons=True&theme=onedark&count_private=true)
 
 
