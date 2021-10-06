@@ -12,9 +12,10 @@
 
 <p align="center">
   <em>
-    This is Akshat Dubey, a <b>fourth year student </b>pursuing Integrated Masters of Science in Mathematics and Computing from <a href="https://www.bitmesra.ac.in/"> <b>Birla Institute of Technology - Mesra</b>, Ranchi</a>. <br>
-    I am an aspiring Data Scientist with experience in <b>Machine Learning, Deep Learning, NLP, and Computer Vision</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <b></b>&nbsp;&nbsp,<br><b></b>
-    I am obsessed with the idea of <b>improving</b> myself. I am open to <b>project collaborations.</b> 
+    This is Akshat Dubey, a <b>fourth year student </b>pursuing Integrated Masters of Science in Mathematics and Computing from <a href="https://www.bitmesra.ac.in/"> <b>Birla Institute of Technology - Mesra</b>, Ranchi</a>. <br> I am working as a <b> Research Intern</b> at <a href="https://www.ryerson.ca/">Ryerson University, Toronto, Canada. </a>
+    I am an aspiring Data Scientist with experience in <b>Machine Learning, Deep Learning, NLP, Graph Neural Networks and Computer Vision</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <b></b>&nbsp;&nbsp,<br><b></b>
+    I am obsessed with the idea of <b>improving</b> myself. I am open to <b>project collaborations.</b> <br>
+    I have mentored many prestigious hackathons such as <a href="https://hackodisha.xyz/">HackOdisha 2.0 by NIT Rourkela, Odisha</a> and <a href="https://hackthemountain.tech/">Hack The Mountains (In collaboration with MLH)</a>
     
   </em> 
   <br>
@@ -29,9 +30,9 @@
 
 
 
-✅ 😏 I'm fluent in ***Data Analytics, Machine Learning, Deep Learning, and Natural Language Processing***.
+✅ 😏 I'm fluent in ***Data Analytics, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing***.
 
-✅ 🧐 I am interested in the application of Machine Learning, Deep Learning, and Natural Language Processing in the field of ***medicin& healthcare***.
+✅ 🧐 Currently I am advancing in Graph Embeddings, Graph Machine Learning, and Graph Neural Networks.
 
 ✅ 🧐 I am a ***Kaggle Master***.
   
