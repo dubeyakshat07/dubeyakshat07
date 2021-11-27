@@ -9,6 +9,12 @@
 <a href="https://www.linkedin.com/in/akshat0007/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="@akshatdubey" height="50" width="70" /></a><a href="https://www.kaggle.com/akshat0007/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="@akshatdubey" height="30" width="40" /></a>
 </p>
 </p>
+<p align="center">
+  
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/akshat0007/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/akshat0007/notebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/akshat0007/discussion/light" />
+</p>
 
 <p align="center">
   <em>
