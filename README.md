@@ -51,23 +51,9 @@
 
 ✅ ⚡ Fun fact: In the next 10 years, Data Science will do more for medicine than all the ***biological sciences combined***. --- **Vinod Khosla(Co-Founder of Sun Microsystems)**
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20">&nbsp;***Languages & Tools I have experience with.***
-<p align="left">
-  
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code><img height="50" src="https://iconape.com/wp-content/files/wd/352572/svg/352572.svg"></code><code> 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"> </code>
-  <code> <img height="50" src="https://icon2.cleanpng.com/20180527/aye/kisspng-docker-github-node-js-mongodb-computer-software-5b0a34af260146.0636816215273955031557.jpg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> </code>
 
-  <code> <img height="50" src="https://avatars.githubusercontent.com/u/58118658?v=4"> </code>
-  <code> <img height="50" src="https://cdn.iconscout.com/icon/free/png-512/git-1-226092.png"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"> </code>
-  <code> <img height="50" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"> </code>
+  
+  </code>
  </code>
   <hr>
   <p align="center">
