@@ -9,16 +9,11 @@
 <a href="https://www.linkedin.com/in/akshat0007/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="@akshatdubey" height="50" width="70" /></a><a href="https://www.kaggle.com/akshat0007/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="@akshatdubey" height="30" width="40" /></a>
 </p>
 </p>
-<p align="center">
-  
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/akshat0007/dataset/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/akshat0007/notebook/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/akshat0007/discussion/light" />
-</p>
+
 
 <p align="center">
   <em>
-    This is Akshat Dubey, a <b>final year student </b>pursuing Integrated Masters of Science in Mathematics and Computing from <a href="https://www.bitmesra.ac.in/"> <b>Birla Institute of Technology - Mesra</b>, Ranchi</a>. <br> I am working as a <b> Research Intern</b> at <a href="https://www.ryerson.ca/">Ryerson University, Toronto, Canada. </a> I am a <b>Visiting Master's Student</b> at Ryerson University, Toronto, Canada. I am the <b>National Champion</b> of the EXL EQ 2022 Hackathon by <b>EXL Analytics</b>.
+    This is Akshat Dubey, a <b>final year student </b>pursuing Integrated Masters of Science in Mathematics and Computing from <a href="https://www.bitmesra.ac.in/"> <b>Birla Institute of Technology - Mesra</b>, Ranchi</a>. I am working as a Deep Learning Engineer at <a href = "https://qpivolta.tech/">QpiVolta Technologies</a><br> I worked as a <b> Research Intern</b> at <a href="https://www.ryerson.ca/">Ryerson University, Toronto, Canada. </a> I was a <b>Visiting Master's Student</b> at Ryerson University, Toronto, Canada. I am the <b>National Champion</b> of the EXL EQ 2022 Hackathon by <b>EXL Analytics</b>.
     I am an aspiring Data Scientist with experience in <b>Machine Learning, Deep Learning, NLP, Graph Neural Networks and Computer Vision</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width=35 height=30> <b></b>&nbsp;&nbsp,<br><b></b>
     I am obsessed with the idea of <b>improving</b> myself. I am open to <b>project collaborations.</b> <br>
     I have mentored many prestigious hackathons such as <a href="https://hackodisha.xyz/">HackOdisha 2.0 by NIT Rourkela, Odisha</a>, <a href="https://slop.dscdaiict.in/">Semester Long Projects by DAIICT-Gandhinagar, Gujarat</a>, and <a href="https://hackthemountain.tech/">Hack The Mountains (In collaboration with MLH)</a>
