@@ -36,16 +36,22 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20">&nbsp;***Talking about Myself...***
 
 🚀 What I Do:
-Bringing data to life through the lens of code! Whether it's deciphering patterns in graphs, teaching machines to learn, or unraveling the secrets of natural language, I'm on a journey to make sense of data in meaningful ways.
+<li><b>Explainable AI (XAI)</b>: Unraveling the interpretability of AI models for transparent decision-making and enhancing explainability.
+<li><b>Computer-Human Interaction (CHI)</b>: Exploring the intersection of AI and human interaction for enhanced user experiences.
+<li><b>Visualization XAI Storytelling Framework</b>: Leveraging visualization techniques to build a framework for telling compelling XAI stories.
+<li><b>AI Regulations</b>: Addressing the ethical and regulatory aspects of AI to shape responsible advancements.
+<li><b>Research Focus</b>: Currently delving into the intricacies of Explainable Artificial Intelligence (XAI) in Healthcare.
 
-📚 Projects:
-Explore my repositories for a dive into the world of data, machine learning, and more. From impactful research contributions to hands-on projects, this is where the code magic happens.
+⚙️ Tech Toolbox:
+<li><b>Tensorflow</b>: Mastering the intricacies of Tensorflow for robust machine learning solutions.
+<li><b>PyTorch</b>: Leveraging PyTorch's flexibility and power for deep learning endeavors.
+<li><b>Pytorch-Lightning</b>: Seamless model development and prototyping with Pytorch-Lightning. Unified code for GPU/TPU.
+<li><b>JAX</b>: Navigating the world of differentiable programming with JAX.
+<li><b>Docker & Kubernetes</b>: Proficient in containerization with Docker and orchestrating scalable deployments using Kubernetes.
+<li><b>Flyte (Python-based ML Workflow Orchestration)</b>: Streamlining machine learning workflows with the power and flexibility of Flyte.
 
-🌈 Mission:
-Transforming complex problems into elegant solutions. Passionate about the intersection of data and technology, I'm on a mission to make our digital world smarter and more insightful.
 
-🔬 Research Focus:
-Currently delving into the intricacies of Explainable Artificial Intelligence (XAI) in Healthcare.
+
 
 🌟 Let's Collaborate!
 Open to collaborations, discussions, and exploring new frontiers. Feel free to reach out—let's build something amazing together!
