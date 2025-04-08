@@ -18,7 +18,7 @@
 
 🎓 PhD Student in Computer Science @ Freie Universität Berlin <br>
 
-🇨🇦 Former Research Assistant at Toronto Metropolitan University, Toronto (Formerly Ryerson University) <br>
+🇨🇦 Former Research Assistant at Toronto Metropolitan University, Toronto, Canada (Formerly Ryerson University) <br>
 
 🥇 National Winner of EXL-EQ 2022 Competition by EXL Analytics
 </p>
