@@ -39,35 +39,29 @@
 
 ## 🧠 What I Do
 
-* **Explainable AI (XAI)**: Developing interpretable models that enhance transparency and trustworthiness, particularly in healthcare settings. My research includes both model-agnostic and model-specific interpretability methods, supported by textual justifications to increase trust among domain experts and machine learning practitioners.
+* **Explainable AI (XAI)**: Build interpretable, trustworthy models—especially for healthcare—using both model-agnostic and model-specific methods, paired with textual justifications to enhance expert confidence.
 
-* **Human-Computer Interaction (HCI)**: Exploring the intersection of AI and human interaction to improve user experiences. This involves creating intuitive interfaces and frameworks that facilitate seamless interaction between users and AI systems.
+* **Human-Computer Interaction (HCI)**: Design intuitive interfaces and interaction frameworks that make AI systems more accessible, usable, and aligned with user needs.
 
-* **Visualization XAI Storytelling Framework**: Leveraging visualization techniques to build frameworks that tell compelling XAI stories. This approach combines multi-task distillation with interpretability techniques to enable audience-centric explainability models aimed at healthcare professionals and machine learning practitioners.
+* **Visualization-Driven XAI**: Develop storytelling frameworks that combine multi-task distillation and interpretability techniques to communicate model behavior effectively to healthcare professionals and ML practitioners.
 
-* **AI Regulations**: Addressing the ethical and regulatory aspects of AI to shape responsible advancements. My work includes developing a five-layer nested model for AI design and validation, which aims to streamline AI application design and validation, improving fairness, trust, and AI adoption.
+* **AI Regulations & Ethics**: Create responsible AI frameworks, including a five-layer nested model for AI design and validation, to align AI development with fairness, safety, and regulatory standards.
 
-* **Research Focus**: Currently delving into the intricacies of Explainable Artificial Intelligence (XAI) in healthcare, focusing on increasing the trust of both domain experts and machine learning experts to enable responsible AI.
+* **Current Focus**: Advancing domain-centric XAI in healthcare to boost adoption and trust among clinicians and data scientists alike.
 
 ---
 
 ## ⚙️ Tech Toolbox
 
-* **TensorFlow & PyTorch**: Proficient in developing robust machine learning solutions using TensorFlow and leveraging PyTorch's flexibility and power for deep learning endeavors.
+* **ML Frameworks**: TensorFlow, PyTorch, PyTorch Lightning, and JAX for building scalable and efficient models.
 
-* **PyTorch Lightning**: Utilize PyTorch Lightning for seamless model development and prototyping, enabling unified code for GPU/TPU.
+* **Deployment & Workflow**: Docker, Kubernetes, and Flyte for containerization, orchestration, and workflow automation.
 
-* **JAX**: Navigate the world of differentiable programming with JAX to build high-performance machine learning models.
+* **LLM Techniques**:
 
-* **Docker & Kubernetes**: Skilled in containerization with Docker and orchestrating scalable deployments using Kubernetes.
-
-* **Flyte**: Streamline machine learning workflows with the power and flexibility of Flyte, a Python-based ML workflow orchestration tool.
-
-* **Retrieval-Augmented Generation (RAG)**: Implement RAG techniques to enhance the performance of large language models by integrating external knowledge sources during generation.
-
-* **Low-Rank Adaptation (LoRA)**: Apply LoRA for efficient fine-tuning of large language models, reducing computational resources while maintaining performance.
-
-* **Model Context Protocol (MCP)**: Leverage MCP, an open standard developed by Anthropic, to standardize how applications provide context to LLMs. MCP enables seamless integration between AI models and external data sources, facilitating secure, two-way connections and enhancing the capabilities of AI-powered tools.&#x20;
+  * *RAG*: Boost LLM performance with external knowledge integration.
+  * *LoRA*: Fine-tune large models efficiently with minimal compute overhead.
+  * *MCP*: Use Anthropic’s open standard to securely connect LLMs to external systems and data sources.
 
 ---
 
