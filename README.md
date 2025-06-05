@@ -35,34 +35,51 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20">&nbsp;***Talking about Myself...***
 
-🚀 What I Do:
-<li><b>Explainable AI (XAI)</b>: Unraveling the interpretability of AI models for transparent decision-making and enhancing explainability.
-<li><b>Computer-Human Interaction (CHI)</b>: Exploring the intersection of AI and human interaction for enhanced user experiences.
-<li><b>Visualization XAI Storytelling Framework</b>: Leveraging visualization techniques to build a framework for telling compelling XAI stories.
-<li><b>AI Regulations</b>: Addressing the ethical and regulatory aspects of AI to shape responsible advancements.
-<li><b>Research Focus</b>: Currently delving into the intricacies of Explainable Artificial Intelligence (XAI) in Healthcare.
+---
 
-⚙️ Tech Toolbox:
-<li><b>Tensorflow</b>: Mastering the intricacies of Tensorflow for robust machine learning solutions.
-<li><b>PyTorch</b>: Leveraging PyTorch's flexibility and power for deep learning endeavors.
-<li><b>Pytorch-Lightning</b>: Seamless model development and prototyping with Pytorch-Lightning. Unified code for GPU/TPU.
-<li><b>JAX</b>: Navigating the world of differentiable programming with JAX.
-<li><b>Docker & Kubernetes</b>: Proficient in containerization with Docker and orchestrating scalable deployments using Kubernetes.
-<li><b>Flyte (Python-based ML Workflow Orchestration)</b>: Streamlining machine learning workflows with the power and flexibility of Flyte.
+## 🧠 What I Do
 
+* **Explainable AI (XAI)**: Developing interpretable models that enhance transparency and trustworthiness, particularly in healthcare settings. My research includes both model-agnostic and model-specific interpretability methods, supported by textual justifications to increase trust among domain experts and machine learning practitioners.
 
+* **Human-Computer Interaction (HCI)**: Exploring the intersection of AI and human interaction to improve user experiences. This involves creating intuitive interfaces and frameworks that facilitate seamless interaction between users and AI systems.
 
+* **Visualization XAI Storytelling Framework**: Leveraging visualization techniques to build frameworks that tell compelling XAI stories. This approach combines multi-task distillation with interpretability techniques to enable audience-centric explainability models aimed at healthcare professionals and machine learning practitioners.
 
-🌟 Let's Collaborate!
-Open to collaborations, discussions, and exploring new frontiers. Feel free to reach out—let's build something amazing together!
+* **AI Regulations**: Addressing the ethical and regulatory aspects of AI to shape responsible advancements. My work includes developing a five-layer nested model for AI design and validation, which aims to streamline AI application design and validation, improving fairness, trust, and AI adoption.
 
-⚡ Stay Curious, Keep Coding! ⚡
+* **Research Focus**: Currently delving into the intricacies of Explainable Artificial Intelligence (XAI) in healthcare, focusing on increasing the trust of both domain experts and machine learning experts to enable responsible AI.
 
+---
 
-  
-  </code>
- </code>
+## ⚙️ Tech Toolbox
 
+* **TensorFlow & PyTorch**: Proficient in developing robust machine learning solutions using TensorFlow and leveraging PyTorch's flexibility and power for deep learning endeavors.
+
+* **PyTorch Lightning**: Utilize PyTorch Lightning for seamless model development and prototyping, enabling unified code for GPU/TPU.
+
+* **JAX**: Navigate the world of differentiable programming with JAX to build high-performance machine learning models.
+
+* **Docker & Kubernetes**: Skilled in containerization with Docker and orchestrating scalable deployments using Kubernetes.
+
+* **Flyte**: Streamline machine learning workflows with the power and flexibility of Flyte, a Python-based ML workflow orchestration tool.
+
+* **Retrieval-Augmented Generation (RAG)**: Implement RAG techniques to enhance the performance of large language models by integrating external knowledge sources during generation.
+
+* **Low-Rank Adaptation (LoRA)**: Apply LoRA for efficient fine-tuning of large language models, reducing computational resources while maintaining performance.
+
+* **Model Context Protocol (MCP)**: Leverage MCP, an open standard developed by Anthropic, to standardize how applications provide context to LLMs. MCP enables seamless integration between AI models and external data sources, facilitating secure, two-way connections and enhancing the capabilities of AI-powered tools.&#x20;
+
+---
+
+## 🌟 Let's Collaborate!
+
+I'm open to collaborations, discussions, and exploring new frontiers in AI, XAI, HCI, and related fields. Feel free to reach out—let's build something amazing together!
+
+---
+
+## ⚡ Stay Curious, Keep Coding! ⚡
+
+---
 
 
 
